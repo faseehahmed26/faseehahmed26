@@ -1,5 +1,5 @@
 ### Hi there, I'm Faseeh  👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/FaseehA21007663)
+[![Twitter Follow](https://twitter.com/FaseehA2100766?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/FaseehA21007663)
 
 ## I'm a Student, Developer, and Data Scientist!!
 
