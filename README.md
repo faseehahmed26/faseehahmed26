@@ -1,6 +1,14 @@
 ### Hi there, I'm Faseeh  👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/FaseehA21007663?color=1DA1F2&logo=twitter&style=for-the-badge))](https://twitter.com/FaseehA21007663)
 
+### Connect with me:
+
+<a href="https://twitter.com/FaseehA21007663">
+  <img align="left" alt="Faseeh Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/faseeh-ahmed-a2037b191/">
+  <img align="left" alt="Faseeh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
 ## I'm a Student, Developer, and a Data Scientist!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -8,14 +16,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
-
-### Connect with me:
-
-[<img align="left" alt="FaseehA21007663 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="faseeh-ahmed-a2037b191 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
 
 
 ### Languages and Tools:
@@ -37,24 +37,9 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faseeh007&show_icons=true&hide_border=true">
-  <br>  
-  <img align="left" alt="Faseeh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faseeh007&show_icons=true&hide_border=true" />
-
-</details>
 
 
 
----
-
-
-[twitter]:https://twitter.com/FaseehA21007663
-
-[linkedin]: https://www.linkedin.com/in/faseeh-ahmed-a2037b191/
 
 | <a href="https://github.com/faseeh007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faseeh007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Faseeh's github stats" /></a> | <a href="https://github.com/faseeh007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faseeh007&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
