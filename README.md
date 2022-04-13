@@ -8,7 +8,9 @@
 <a href="https://www.linkedin.com/in/faseeh-ahmed-a2037b191/">
   <img align="left" alt="Faseeh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <br />
+
 ## I'm a Student, Developer, and a Data Scientist!!
 
 - 🌱 I’m currently learning everything 🤣
