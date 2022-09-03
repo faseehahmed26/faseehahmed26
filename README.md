@@ -39,6 +39,10 @@
 
 
 
-| <a href="https://github.com/faseeh007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faseeh007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Faseeh's github stats" /></a> | <a href="https://github.com/faseeh007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faseeh007&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/faseehahmed26
+/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faseehahmed26
+&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Faseeh's github stats" /></a> | <a href="https://github.com/faseehahmed26
+/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faseehahmed26
+&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
