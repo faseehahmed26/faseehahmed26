@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/FaseehA21007663">
+<a href="https://twitter.com/FaseehAhmed2606">
   <img align="left" alt="Faseeh Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/faseeh-ahmed-a2037b191/">
@@ -11,11 +11,11 @@
 
 <br />
 
-## I'm a Student, Developer, and a Data Scientist!!
+## I'm a Developer,Learner and a Data Scientist!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Data Scientists
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects and become a Kaggle 3x Expert
 
 
 
