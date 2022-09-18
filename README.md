@@ -13,7 +13,9 @@
 
 ## I'm a Developer,Learner and a Data Scientist!!
 
-- 🌱 I’m currently learning everything 🤣
+- 👨‍💻 Data Scientist at Link Building Blogs. Research Programmer at Genoparadigm
+- 🧠 Like to work on AI,ML,DL,Computer Vision and  MLOps
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other Data Scientists
 - 🥅 2022 Goals: Contribute more to Open Source projects and become a Kaggle 3x Expert
 
