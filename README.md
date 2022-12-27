@@ -5,7 +5,7 @@
 <a href="https://twitter.com/FaseehAhmed2606">
   <img align="left" alt="Faseeh Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/faseeh-ahmed-a2037b191/">
+<a href="[https://www.linkedin.com/in/faseeh-ahmed-a2037b191/](https://www.linkedin.com/in/mohammad-faseeh-ahmed-a2037b191/)">
   <img align="left" alt="Faseeh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
