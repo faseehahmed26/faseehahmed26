@@ -5,7 +5,7 @@
 <a href="https://twitter.com/FaseehAhmed2606">
   <img align="left" alt="Faseeh Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mohammad-faseeh-ahmed-a2037b191/">
+<a href="https://www.linkedin.com/in/mohammad-faseeh-ahmed/">
   <img align="left" alt="Faseeh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -17,7 +17,7 @@
 - 🧠 Like to work on AI,ML,DL,Computer Vision and  MLOps
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other Data Scientists
-- 🥅 2022 Goals: Contribute more to Open Source projects and become a Kaggle 3x Expert
+- 🥅 2023 Goals: Contribute more to Open Source projects and become a Kaggle 3x Expert
 
 
 
