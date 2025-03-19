@@ -1,44 +1,103 @@
-### Hi there, I'm Faseeh  👋
+# Mohammad Faseeh Ahmed
 
-### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-faseeh-ahmed/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=x)](https://twitter.com/FaseehAhmed2606)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://your-portfolio-url.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/your-profile)
+[![Tableau](https://img.shields.io/badge/Tableau-Visualizations-E97627?style=flat-square&logo=tableau)](https://public.tableau.com/your-profile)
 
-<a href="https://twitter.com/FaseehAhmed2606">
-  <img align="left" alt="Faseeh Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/4a19a9b4947608f81b67046ea1d5873a0930234f/svg-min/x.svg" />
+## 👨‍💻 Data Scientist & Machine Learning Engineer
+
+Currently pursuing my M.S. in Data Science at Rochester Institute of Technology (Expected May 2025), I specialize in NLP, distributed training, and building end-to-end ML pipelines. With experience spanning healthcare, content generation, and e-commerce, I'm passionate about developing scalable AI solutions that deliver measurable business impact.
+
+### 🔭 Current Focus
+- R&D Data Governance Intern at Daiichi Sankyo Inc, working on NLP for clinical data analysis
+- Research Assistant at RIT, enhancing federated learning models and distributed systems
+- Exploring RAG architectures for intelligent information retrieval systems
+- Developing practical MLOps solutions for production-ready AI systems
+
+### ⚡ Technologies & Skills
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-Advanced-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript)
+![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=flat-square&logo=r)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=c%2B%2B)
+![Go](https://img.shields.io/badge/Go-Beginner-00ADD8?style=flat-square&logo=go)
+![Julia](https://img.shields.io/badge/Julia-Beginner-9558B2?style=flat-square&logo=julia)
+
+#### ML & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=flat-square&logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-Advanced-F7931E?style=flat-square&logo=scikit-learn)
+![Keras](https://img.shields.io/badge/Keras-Advanced-D00000?style=flat-square&logo=keras)
+![YOLO](https://img.shields.io/badge/YOLO-Experienced-00FFFF?style=flat-square)
+![BERT](https://img.shields.io/badge/BERT-Experienced-76B900?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-Experienced-FFD21E?style=flat-square&logo=huggingface)
+
+#### Data Engineering & MLOps
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-Advanced-232F3E?style=flat-square&logo=amazon-aws)
+![MLflow](https://img.shields.io/badge/MLflow-Intermediate-0194E2?style=flat-square&logo=mlflow)
+![PySpark](https://img.shields.io/badge/PySpark-Intermediate-E25A1C?style=flat-square&logo=apache-spark)
+![GCP](https://img.shields.io/badge/GCP-Intermediate-4285F4?style=flat-square&logo=google-cloud)
+![Azure](https://img.shields.io/badge/Azure-Intermediate-0089D6?style=flat-square&logo=microsoft-azure)
+
+#### Web Development
+![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=flat-square&logo=flask)
+![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat-square&logo=node.js)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat-square&logo=mysql)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-Intermediate-4053D6?style=flat-square&logo=amazon-dynamodb)
+
+### 📚 Recent Projects
+
+#### BoxRAG: Movie Recommendation System
+Built an intelligent movie recommender using Mistral 7B and RAG techniques, combining traditional algorithms with LLM-powered content analysis for personalized recommendations.
+- **Tech:** Mistral 7B, FAISS, HNSWStore, ChromaStore, Flask, React
+
+#### NLP-Driven ICF Analysis Pipeline
+Engineered a system to analyze 300+ monthly Informed Consent Forms, achieving 87% classification accuracy for data-sharing permissions using BERT embeddings.
+- **Tech:** BERT, T5, Flask, Custom Tokenization Rules
+
+#### Real-Time Inventory Management with Computer Vision
+Developed a YOLOv5-based system for cold beverage inventory management with real-time detection capability, integrated with a SQLite database.
+- **Tech:** YOLOv5, Streamlit, SQLite, OpenCV
+
+#### Prompt-Manager Library
+Created a Python library for efficient prompt management and versioning in LLM applications, implementing version control and modular configuration.
+- **Tech:** Python, JSON
+
+### 📝 Technical Blog Posts
+- [Build and Deploy Your Deep Learning Model in MERN Stack](https://medium.com/@your-handle/link-to-article)
+- [Build a Real-Time Inventory Management System in 6 Hours Using Streamlit and YOLOv5](https://medium.com/@your-handle/link-to-article)
+- [Optimizing Prompt Management: Strategies for Efficient AI Development](https://medium.com/@your-handle/link-to-article)
+- [The Modern Data Stack: Understanding Data Pipelines, ETL, and Data Warehousing](https://medium.com/@your-handle/link-to-article)
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/faseehahmed26">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faseehahmed26&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true" alt="Faseeh's github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faseehahmed26&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook"/>
 </a>
-<a href="https://www.linkedin.com/in/mohammad-faseeh-ahmed/">
-  <img align="left" alt="Faseeh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/yushi1007/yushi1007/05fea7c9a730f73ed6c6ad9eae0722a6fa9c69fd/images/linkedin.svg" />
-</a>
 
-<br />
+### 🔍 Research Publications
+- Tubules Detection on Breast Carcinoma Whole Slide Images Using Artificial Intelligence (C-MIMI Conference, Johns Hopkins University)
+- Web-Based Mitosis Detection on Breast Cancer Whole Slide Images Using FasterRCNN and YOLOv5 (International Journal of Advanced Computer Science Applications)
 
-## I'm a Developer,Learner and a Data Scientist!!
+### 🎯 2025 Goals
+- Complete my Master's in Data Science with excellence
+- Contribute to open-source projects in NLP and distributed ML
+- Become a Kaggle 3x Expert
+- Publish research on federated learning innovations
 
-- 👨‍💻 Data Scientist at Link Building Blogs. Research Programmer at Genoparadigm
-- 🧠 Like to work on AI,ML,DL,Computer Vision and  MLOps
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other Data Scientists
-- 🥅 2023 Goals: Contribute more to Open Source projects and become a Kaggle 3x Expert
+### 📫 Let's Connect!
+I'm always interested in collaborating on interesting projects, discussing AI/ML advancements, or exploring new opportunities in the data science space. Feel free to reach out!
 
-
-
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-<br />
-<br />
-
-
-
-
-
-<a href="https://github.com/faseehahmed26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faseehahmed26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Faseeh's github stats" /></a> <a href="https://github.com/faseehahmed26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faseehahmed26&layout=compact&theme=buefy&hide_border=true" /></a> 
+[![Email](https://img.shields.io/badge/Email-mm9314@g.rit.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm9314@g.rit.edu)
+[![Phone](https://img.shields.io/badge/Phone-+1_585_202_5217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+15852025217)
